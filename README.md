@@ -10,7 +10,7 @@ Track your progress with the project by updating the checkmarks down below
 - [x] Fork this project into your own Github project
 - [x] Enable `Source: Github Actions` in Settings/Pages of your project
 - [x] Open Actions and manually run the `Deploy Next.js site to Pages` Workflow
-- [x] Confirm that your website is auto-deployed to [https://acezyx.github.io/Snake-Game/game](https://{username}.github.io/snake-game/game) 
+- [x] Confirm that your website is auto-deployed to [https://acezyx.github.io/Snake-Game/game](https://acezyx.github.io/Snake-Game/game) 
   - [x] Make sure to update the `{username}` texts on the line above to your github username
 - [x] Make sure the following are installed (Two of these will already be installed on computer sets up for robotics)
   - [x] Git: [Install](https://git-scm.com/downloads)
