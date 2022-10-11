@@ -7,18 +7,18 @@ Track your progress with the project by updating the checkmarks down below
 
 ## Set up
 - [x] Read this readme
-- [ ] Fork this project into your own Github project
-- [ ] Enable `Source: Github Actions` in Settings/Pages of your project
-- [ ] Open Actions and manually run the `Deploy Next.js site to Pages` Workflow
-- [ ] Confirm that your website is auto-deployed to [https://{username}.github.io/snake-game/game](https://{username}.github.io/snake-game/game) 
-  - [ ] Make sure to update the `{username}` texts on the line above to your github username
-- [ ] Make sure the following are installed (Two of these will already be installed on computer sets up for robotics)
-  - [ ] Git: [Install](https://git-scm.com/downloads)
-  - [ ] VS Code: [Install](https://code.visualstudio.com/download)
-  - [ ] Node.js: [Install](https://nodejs.org/en/)
-- [ ] Install node packages `npm install` in a command line window
-- [ ] Start the server locally: `npm run dev`
-- [ ] Browser to the local server: [http://localhost:3000/](http://localhost:3000/)
+- [x] Fork this project into your own Github project
+- [x] Enable `Source: Github Actions` in Settings/Pages of your project
+- [x] Open Actions and manually run the `Deploy Next.js site to Pages` Workflow
+- [x] Confirm that your website is auto-deployed to [https://acezyx.github.io/Snake-Game/game](https://{username}.github.io/snake-game/game) 
+  - [x] Make sure to update the `{username}` texts on the line above to your github username
+- [x] Make sure the following are installed (Two of these will already be installed on computer sets up for robotics)
+  - [x] Git: [Install](https://git-scm.com/downloads)
+  - [x] VS Code: [Install](https://code.visualstudio.com/download)
+  - [x] Node.js: [Install](https://nodejs.org/en/)
+- [x] Install node packages `npm install` in a command line window
+- [x] Start the server locally: `npm run dev`
+- [x] Browser to the local server: [http://localhost:3000/](http://localhost:3000/)
 
 ## Grid Helper
 
